@@ -1,1 +1,3 @@
 Name: Sireethorn C
+Weight (kg.): 49.9
+Height (cm.): 158
